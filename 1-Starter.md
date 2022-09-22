@@ -1,6 +1,8 @@
-![[Pasted image 20220805193156.png]]
+![image](https://user-images.githubusercontent.com/105587797/191834162-3a3e37f7-969a-43db-a58e-7d12b4973129.png)
+
 p -> character
-![[Pasted image 20220805193406.png || 500]]
+![image](https://user-images.githubusercontent.com/105587797/191834098-c213f5dd-c380-4a36-9bbc-836a36eb26a1.png)
+
 
 <head> element
 	title genelde içine yazılır

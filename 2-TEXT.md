@@ -12,7 +12,7 @@
 ```html
 <p>   </p>
 ```
-- ardısık paragraflar arasında belirgin boşlukşat bırakır
+- ardısık paragraflar arasında belirgin boşluklar bırakır
 
 ### bold & italic
 
@@ -33,7 +33,7 @@
 H<sub> 2 </sub>O
 ```
 
-![[Pasted image 20220805195011.png]]
+
 
 > [! note]
 > white space ; browser 2 veya daha fazla boşlugu tek bosluk olarak gösterir.
@@ -71,8 +71,6 @@ H<sub> 2 </sub>O
 
 ```
 
-![[Pasted image 20220805201531.png]]
-![[Pasted image 20220805201707.png]]
 
 
 ### author detail
@@ -94,6 +92,5 @@ H<sub> 2 </sub>O
 
 <u> </u>        <!-- altını çizer -->
 ```
-![[Pasted image 20220805203045.png]]
-![[Pasted image 20220805203104.png]]
+
 

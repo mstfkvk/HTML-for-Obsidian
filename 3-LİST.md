@@ -16,7 +16,7 @@
 
     </ol>
 ```
-![[Pasted image 20220805203501.png]]
+
 
 2 -
 
@@ -33,7 +33,8 @@
 
     </ul>
 ```
-![[Pasted image 20220805203701.png]]
+
+
 3- 
 ```html
  <dl>
@@ -50,7 +51,7 @@
 
     </dl>
 ```
-![[Pasted image 20220805203906.png]]
+
 - dt:definition term - tanımlanacak sey
 - dd: tanımın kendisi uzun uzadıya
 
@@ -90,4 +91,4 @@
 
    </ul>
 ```
-![[Pasted image 20220805204508.png]]
+
